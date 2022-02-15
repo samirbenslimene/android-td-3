@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Create your Resume</string>
+    <string name="empty">Must not be empty</string>
+    <string name="email">Not Valid Mail</string>
+</resources>
